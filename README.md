@@ -1,6 +1,6 @@
 # Python Projects
 Basic python projects
 
-1. Automation Projects
+    1. Automation Projects
 
-2. Game projects
+    2. Game projects
