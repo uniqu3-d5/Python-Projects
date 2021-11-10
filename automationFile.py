@@ -1,5 +1,6 @@
 import os
 
+# Input
 times = input('Enter a number of file you want to create: ')
 filename = input('Enter a name of file: ')
 
